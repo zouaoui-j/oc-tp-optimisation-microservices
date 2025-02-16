@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MproduitsApplication9011" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.mproduits.MproduitsApplication" />
+    <module name="mproduits" />
+    <option name="VM_PARAMETERS" value="-Dserver.port=9011" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.mproduits.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
